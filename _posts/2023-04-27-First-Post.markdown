@@ -1,3 +1,8 @@
+---
+layout: post
+title: New Adventure
+categories: [category 1, category 2]
+---
 # New Adventure
 
 ## Ready for Launch
