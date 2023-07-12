@@ -2,9 +2,9 @@
 
 _The final version of the project is given in this post._
 
-The contents of the news in the news section of the website of the Centre for the Religious Studies at Ruhr University were analysed by text analysis.
+The contents of the news in the news section of the website of the Centre for Religious Studies at Ruhr University were analysed by text analysis.
 ## Part 1: WebScraping via OpenRefine
-Firstly, I obtained the data required for the project by webscraping and edited it to make it suitable for text analysis.
+Firstly, I obtained the data required for the project by web scraping and I edited it to make it suitable for text analysis.
 
 **Step 1:**   Getting the links of 52 pages in the _News_ section
 
@@ -46,7 +46,7 @@ Firstly, I obtained the data required for the project by webscraping and edited 
 ![Step_8.jpg](./Step_8.jpg)
 
 
-**Step 9:**   Date and time column for posts are added  
+**Step 9:**   Date & time column for posts are added  
 
 ![Step_9.jpg](./Step_9.jpg)
 
@@ -56,12 +56,12 @@ Firstly, I obtained the data required for the project by webscraping and edited 
 ![Step_10.jpg](./Step_10.jpg)
 
 
-**Step 11:**   files are created and downloaded
+**Step 11:**   Files are created and downloaded
 
 ![Step_11.jpg](./Step_11.jpg)
 
 ## Part 2: Text Analyse via Voyant Tools 
-Scraped data is downloaded as xls file and text.
+Scraped data is downloaded as an xls file and text.
 The text Analysis, after uploading the text documents to Voyant tools is as follows:
 
 ![Text-1.jpg](./Text-1.jpg)
