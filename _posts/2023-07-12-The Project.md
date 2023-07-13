@@ -48,7 +48,7 @@ Firstly, I obtained the data required for the project by webscraping and edited 
 
 **Step 9:**   Date and time column for posts are added  
 
-![Step9](https://github.co[m/eoztrk61/eoztrk61.github.io/blob/main/assets/Step_9.jpg?raw=true)
+![Step9](https://github.com/eoztrk61/eoztrk61.github.io/blob/main/assets/Step_9.jpg?raw=true)
 
 
 **Step 10:**   Redundant columns are removed 
