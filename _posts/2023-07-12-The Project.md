@@ -26,7 +26,7 @@ Firstly, I obtained the data required for the project by webscraping and edited 
 ![Step4](https://github.com/eoztrk61/eoztrk61.github.io/blob/main/assets/Step_4.jpg?raw=true)
 
 
-**Step 5:**   A real link to each post is created 
+**Step 5:**   Real links of the posts are created 
 
 ![Step5](https://github.com/eoztrk61/eoztrk61.github.io/blob/main/assets/Step_5.jpg?raw=true)
 
