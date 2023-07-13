@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Project: The Text Analyse of the Ceres Website
+title: The Project
 categories: [category 1, category 2]
 ---
 
-# Ceres Website Project
+# The Text Analyse of the Ceres Website
 
 _The final version of the project is given in this post._
 
