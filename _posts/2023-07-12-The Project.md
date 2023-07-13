@@ -8,7 +8,7 @@ Firstly, I obtained the data required for the project by webscraping and edited 
 
 **Step 1:**   Getting the links of 52 pages in the _News_ section
 
-![Step_1.png](./Step_1.png)
+![Step1](https://github.com/eoztrk61/eoztrk61.github.io/blob/main/assets/Step_1.jpg?raw=true)
 
 
 **Step 2:**   Access data on each page
